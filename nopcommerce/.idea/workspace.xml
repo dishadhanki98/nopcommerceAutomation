@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfaf3e45-9d69-4781-985c-e65910dc9d7a" name="Default Changelist" comment="">
+    <list default="true" id="cfaf3e45-9d69-4781-985c-e65910dc9d7a" name="Default Changelist" comment="AutomationNopCommerceFirstCommit">
       <change afterPath="$PROJECT_DIR$/../PracticeParse/src/Split.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticeParse/src/ValueOf.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ProjectNew/src/AmazonLocator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ProjectNew/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nopcommerce.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Resources/ChromeBrowserDriver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Resources/testDataConfig.Properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nopcommerce/com/AutomationNopCommerce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nopcommerce/com/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nopcommerce/com/LoadProps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nopcommerce/com/Utils.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practise/.idea/dictionaries/Disha.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practise/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../practise/src/ArmstrongNumber.java" afterDir="false" />
@@ -144,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568816610282</updated>
     </task>
+    <task id="LOCAL-00001" summary="AutomationNopCommerceFirstCommit">
+      <created>1568820198958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568820198958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -175,6 +169,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AutomationNopCommerceFirstCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="AutomationNopCommerceFirstCommit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
